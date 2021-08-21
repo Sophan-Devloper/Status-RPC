@@ -1,5 +1,5 @@
 {
-    "ClientID": "user clientID",
+    "ClientID": "user clientID", //<= https://discord.com/developers
     "LargeImage": "large", 
     "LargeImageText": "Urako",
     "SmallImage": "smoll",
