@@ -1,7 +1,7 @@
 {
     "ClientID": "user clientID",
     "LargeImage": "large", 
-    "LargeImageText": "Urako",
+    "LargeImageText": "Hello",
     "SmallImage": "smoll",
     "SmallImageText": "love",
     "Button1": "JOIN SERVER",
